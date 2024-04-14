@@ -10,10 +10,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="center">
-<a href="https://asharib.live/"><img src="https://img.shields.io/badge/personal website-F15B2A?style=for-the-badge&logo=firefox&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/itsasharib/"><img  alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0b5fbb?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
- <a href="https://twitter.com/codeashing"><img  alt="Twitter" title="Twitter" src="https://img.shields.io/badge/twitter-1c96e9?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-  <a href="https://stackoverflow.com/users/YOUR_USER_ID"><img alt="Stack Overflow" title="Stack Overflow" src="https://img.shields.io/badge/Stack%20Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white"/></a>
+<a href=""><img src="https://img.shields.io/badge/personal website-F15B2A?style=for-the-badge&logo=firefox&logoColor=white"/></a>
+<a href=""><img  alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0b5fbb?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+ <a href=""><img  alt="Twitter" title="Twitter" src="https://img.shields.io/badge/twitter-1c96e9?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+  <a href=""><img alt="Stack Overflow" title="Stack Overflow" src="https://img.shields.io/badge/Stack%20Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white"/></a>
 </p>
 <i><b><h3><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px"> &nbsp; My Favorite Tools </h3></b></i>
 <hr></hr>
@@ -124,11 +124,15 @@
 ***<h3><img src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" width="50px"> &nbsp; Github Stats and Activity</h3>***
 <hr></hr>
 
-<p align="center"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=had33dkhan&show_icons=true&locale=en&layout=compact&theme=dark&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff" alt="had33dkhan" /></p><br>
+<a href="">
+    <img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/>
+</a>
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=had33dkhan&show_icons=true&locale=en&theme=radical&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff" alt="had33dkhan"/></p><br>
+<p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=had33dkhan&show_icons=true&locale=en&layout=compact&theme=dark&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff" alt="had33dkhan" /></p><br><br><br><br>
 
- <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=had33dkhan&theme=sunset&background=30,e96443,904e95&ring=e96443&fire=904e95&currStreakLabel=fff&sideLabels=fff&dates=fff&stroke=fff&border=fff" alt="had33dkhan" /></p>
+<p align="left"><img align="center" src="https://github-readme-stats.vercel.app/api?username=had33dkhan&show_icons=true&locale=en&theme=radical&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff" alt="had33dkhan"/></p>
+
+ <p align="left"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=had33dkhan&theme=sunset&background=30,e96443,904e95&ring=e96443&fire=904e95&currStreakLabel=fff&sideLabels=fff&dates=fff&stroke=fff&border=fff" alt="had33dkhan" /></p>
 
 **<h3 align="left">Support:</h3>**
-<p><a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/_HadeedKhan_"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/_HadeedKhan_" /></a></p><br><br>
+<p><a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/_HadeedKhan_"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/_HadeedKhan_" /></a></p>
