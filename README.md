@@ -128,7 +128,7 @@
     <img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/>
 </a>
 
-<p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=had33dkhan&show_icons=true&locale=en&layout=compact&theme=dark&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff" alt="had33dkhan" /></p><br><br><br><br>
+<p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=had33dkhan&show_icons=true&locale=en&layout=compact&theme=dark&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff" alt="had33dkhan" /></p><br><br><br><br><br>
 
 <p align="left"><img align="center" src="https://github-readme-stats.vercel.app/api?username=had33dkhan&show_icons=true&locale=en&theme=radical&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff" alt="had33dkhan"/></p>
 
