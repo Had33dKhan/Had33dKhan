@@ -124,15 +124,15 @@
 ***<h3><img src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" width="50px"> &nbsp; Github Stats and Activity</h3>***
 <hr></hr>
 
-<a href="">
+<a align="center" href="">
     <img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/>
 </a>
+<table align="center">
+  <tr>
+    <th><p align="center"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=had33dkhan&show_icons=true&locale=en&layout=compact&theme=dark&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff" alt="had33dkhan" /></p></th>
+    <th><p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=had33dkhan&show_icons=true&locale=en&theme=radical&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff" alt="had33dkhan"/></p></th>
+ </tr></table>
+ <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=had33dkhan&theme=sunset&background=30,e96443,904e95&ring=e96443&fire=904e95&currStreakLabel=fff&sideLabels=fff&dates=fff&stroke=fff&border=fff" alt="had33dkhan" /></p>
 
-<p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=had33dkhan&show_icons=true&locale=en&layout=compact&theme=dark&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff" alt="had33dkhan" /></p><br><br><br><br><br>
-
-<p align="left"><img align="center" src="https://github-readme-stats.vercel.app/api?username=had33dkhan&show_icons=true&locale=en&theme=radical&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff" alt="had33dkhan"/></p>
-
- <p align="left"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=had33dkhan&theme=sunset&background=30,e96443,904e95&ring=e96443&fire=904e95&currStreakLabel=fff&sideLabels=fff&dates=fff&stroke=fff&border=fff" alt="had33dkhan" /></p>
-
-**<h3 align="left">Support:</h3>**
+## ***<h3 align="left">Support:</h3>***
 <p><a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/_HadeedKhan_"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/_HadeedKhan_" /></a></p>
