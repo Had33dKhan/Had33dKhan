@@ -134,5 +134,11 @@
  </tr></table>
  <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=had33dkhan&theme=sunset&background=30,e96443,904e95&ring=e96443&fire=904e95&currStreakLabel=fff&sideLabels=fff&dates=fff&stroke=fff&border=fff" alt="had33dkhan" /></p>
 
+ 
+***<h3> &nbsp; Holopin Badges</h3>***
+<hr></hr>
+
+ [![An image of @had33dkhan's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/had33dkhan)](https://holopin.io/@had33dkhan)
+
 ## ***<h3 align="left">Support:</h3>***
 <p><a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/_HadeedKhan_"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/_HadeedKhan_" /></a></p>
