@@ -17,7 +17,7 @@
  <a href="https://discordapp.com/users/_hadeedkhan_">
     <img alt="Discord" title="Discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>
 </a>
- <a href="https://www.instagram.com/had33dxkhan/" target="_blank">
+ <a href="https://www.instagram.com/hadeedxkhan/" target="_blank">
     <img alt="Instagram" title="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
  <a href="https://holopin.io/@had33dkhan#" target="_blank">
