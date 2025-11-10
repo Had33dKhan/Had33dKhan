@@ -1,9 +1,9 @@
 <img src="https://github.com/Had33dKhan/Had33dKhan/blob/main/animated.gif" alt="banner">
 <h1 align="center"> <img src="https://www.codedex.io/_next/image?url=%2Fimages%2Frobot.gif&w=128&q=75" width="70px" />Hi 👋, I'm Muhammad Hadeed Khan <img src="https://media.tenor.com/8jAJQds1Kx0AAAAi/pikachu.gif" width="70px"/></h1>
-<p align="center">Hello! 👋 I'm a Software Engineer specializing in Android development, with a knack for UI/UX design. Currently, I'm part of the core team at MLSC at DSU 🌟, where I'm pursuing my degree, slated for DSU'25. Previously, I've honed my skills as an intern at CodeSoft 💻. Excited to connect and collaborate with you! 🚀</p>
+<p align="center">Hello! 👋 I'm a Software Engineer specializing in Android development, with a passion for UI/UX design. I was part of the core team at MLSC at DSU 🌟, where I contributed during my time at university, pursuing my degree slated for DSU'25. I'm currently working as a Developer at Symmetry Group 💻. Excited to connect and collaborate with you! 🚀</p>
 
-- 🔭 I’m currently working on **Android App**
-- 🌱 I’m currently learning **Android Development**
+- 🔭 I’m currently working on **E-Commerce App**
+- 🌱 I’m currently learning **Web/App Development**
 - 💬 Ask me about **Anything you want**
 - 📫 How to reach me **hadeedk20050@gmail.com**
 - ⚡ Fun fact **Endless**
