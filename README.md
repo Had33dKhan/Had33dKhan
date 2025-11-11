@@ -1,5 +1,6 @@
 <img src="https://github.com/Had33dKhan/Had33dKhan/blob/main/animated.gif" alt="banner">
-<h1 align="center"> <img src="https://www.codedex.io/_next/image?url=%2Fimages%2Frobot.gif&w=128&q=75" width="70px" />Hi 👋, I'm Muhammad Hadeed Khan <img src="https://media.tenor.com/8jAJQds1Kx0AAAAi/pikachu.gif" width="70px"/></h1>
+<h1 align="center"> <img src="https://www.codedex.io/_next/image?url=%2Fimages%2Frobot.gif&w=128&q=75" width="70px" /> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Muhammad+Hadeed+Khan" alt="Typing SVG" /></a>
+<img src="https://media.tenor.com/8jAJQds1Kx0AAAAi/pikachu.gif" width="70px"/></h1>
 <p align="center">Hello! 👋 I'm a Software Engineer specializing in Android development, with a passion for UI/UX design. I was part of the core team at MLSC at DSU 🌟, where I contributed during my time at university, pursuing my degree slated for DSU'25. I'm currently working as a Developer at Symmetry Group 💻. Excited to connect and collaborate with you! 🚀</p>
 
 - 🔭 I’m currently working on **E-Commerce App**
