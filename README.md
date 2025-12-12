@@ -93,21 +93,23 @@
 <a align="center" href="">
     <img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/>
 </a>
-<table align="center">
+
+
+<!-- <table align="center">
   <tr>
-    <th><p align="center"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=had33dkhan&show_icons=true&locale=en&layout=compact&theme=dark&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff" alt="had33dkhan" /></p></th>
-    <th><p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=had33dkhan&show_icons=true&locale=en&theme=radical&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff" alt="had33dkhan"/></p></th>
+    <th> <p align="center"> <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=had33dkhan&show_icons=true&locale=en&layout=compact&theme=dark&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff" alt="had33dkhan" /> </p> </th>
+    <th> <p align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=had33dkhan&show_icons=true&locale=en&theme=radical&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff" alt="had33dkhan"/> </p> </th>
  </tr></table>
- <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=had33dkhan&theme=sunset&background=30,e96443,904e95&ring=e96443&fire=904e95&currStreakLabel=fff&sideLabels=fff&dates=fff&stroke=fff&border=fff" alt="had33dkhan" /></p>
+ <p align="center"> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=had33dkhan&theme=sunset&background=30,e96443,904e95&ring=e96443&fire=904e95&currStreakLabel=fff&sideLabels=fff&dates=fff&stroke=fff&border=fff" alt="had33dkhan" /> </p> -->
 
  <!--Trophies Section-->   
-<h2 align="center">🏆 Gɪᴛʜᴜʙ Tʀᴏᴘʜɪᴇs 🏆</h2>
+<!-- <h2 align="center">🏆 Gɪᴛʜᴜʙ Tʀᴏᴘʜɪᴇs 🏆</h2>
 <p align="center">
   <a href="https://github.com/Had33dKhan/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=Had33dKhan&row=2&column=4&margin-w=20&margin-h=20" alt="GitHub Trophies">
   </a>
 </p>
-<br />
+<br /> -->
 
 
  
